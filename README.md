@@ -62,6 +62,7 @@ Although it's currently virtual, this concept showcases how smart technologies c
 2. Open `index.html` in a **modern browser** (preferably Chrome).
 3. **Allow microphone access** when prompted.
 4. Speak supported voice commands.
+
 📌 Important Note:
 To ensure 3D models load properly, open `index.html` using **Live Server in VS Code** or any other local server. Directly opening via file system (`file://`) may prevent the model from loading due to browser security restrictions.
 
