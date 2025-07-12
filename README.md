@@ -45,13 +45,13 @@ Although it's currently virtual, this concept showcases how smart technologies c
 
 ---
 
-## Flow chart
+## 📝 Flow chart
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c71304fb-fa71-41de-937d-e866a3dd7386" />
 
 ---
 
-## Sreenshot
+## 📸 Sreenshot
 
 <img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/bd3fc2cd-a4d1-4f83-a91f-25eff3ec9b8a" />
 
